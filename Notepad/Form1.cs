@@ -274,16 +274,16 @@ namespace Notepad
                 case 2:
                     tsmiSave_Click(sender, e);
                     break;
-                case 3:
+                case 4:
                     tsmiCopy_Click(sender, e);
                     break;
-                case 4:
+                case 5:
                     tsmiCut_Click(sender, e);
                     break;
-                case 5:
+                case 6:
                     tsmiPaste_Click(sender, e);
                     break;
-                case 6:
+                case 8:
                     tsmiAbout_Click(sender, e);
                     break;
             }
